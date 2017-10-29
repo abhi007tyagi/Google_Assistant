@@ -1,0 +1,12 @@
+{
+  "name": "GDG_Assistant",
+  "version": "0.0.1",
+  "description": "GDG Google Assistant Bot webhook",
+  "main": "server.js",
+  "author": "Abhinav Tyagi, New Delhi, India",
+  "dependencies": {
+    "actions-on-google": "^1.5.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5"
+  }
+}
